@@ -4,7 +4,7 @@ Created: 2020년 11월 25일 → 2020년 12월 9일
 Type: CSS, DB, HTML, JAVA, JSP, MySQL
 속성: https://github.com/minjeong13/minjeong13.git
 
-![Output/Untitled.png](Output/Untitled.png)
+![Output/starbottle.png](Output/starbottle.png)
 
 ## Read me ──
 
