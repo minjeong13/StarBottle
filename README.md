@@ -4,7 +4,7 @@ Created: 2020년 11월 25일 → 2020년 12월 9일
 Type: CSS, DB, HTML, JAVA, JSP, MySQL
 속성: https://github.com/minjeong13/minjeong13.git
 
-![StarBottle%201140be96bd5d4f15a9b88065ebdf3798/Untitled.png](StarBottle%201140be96bd5d4f15a9b88065ebdf3798/Untitled.png)
+![Output/Untitled.png](Output/Untitled.png)
 
 ## Read me ──
 
