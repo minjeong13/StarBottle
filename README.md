@@ -1,8 +1,8 @@
 # StarBottle
 
-Created: 2020년 11월 25일 → 2020년 12월 9일
-Type: CSS, DB, HTML, JAVA, JSP, MySQL
-Git: https://github.com/minjeong13/StarBottle
+> Created: 2020년 11월 25일 → 2020년 12월 9일
+> Type: CSS, DB, HTML, JAVA, JSP, MySQL
+> Git: https://github.com/minjeong13/StarBottle
 
 ![Output/starbottle.png](Output/starbottle.png)
 
